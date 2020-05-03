@@ -1,1 +1,8 @@
 <h1> Hello </h1>
+<h2>Bienvenue sur Lazyless</h2>
+
+<ul>
+  <% @tasks.each do |task| %>
+    <li><%= task.name %></li>
+  <% end %>
+</ul>
