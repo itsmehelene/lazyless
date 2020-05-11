@@ -15,7 +15,7 @@
  */
 .navbar-lewagon {
   justify-content: space-between;
-  background-image: url("https://images.unsplash.com/photo-1567947262038-9eb80445eb61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60;")
+  background-color: #00756D;
 }
 
 .navbar-lewagon .navbar-collapse {
